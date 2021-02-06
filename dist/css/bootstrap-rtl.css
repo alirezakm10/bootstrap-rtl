@@ -1162,7 +1162,7 @@ th {
     float: left !important;
   }
   .navbar-left {
-    float: right !important;
+    float: left !important;
   }
   .navbar-nav > li {
     float: right !important;
